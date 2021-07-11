@@ -1,6 +1,12 @@
-## Hi I'm Calvin, a Data Engineer.
+# Hi I'm Calvin, a Data Engineer.
 
-## About Me:
+### About me:
+- Mainly using GitHub to create proof-of-concepts and testing new technologies.
+- I'm currently working on writing good unit tests.
+- Reach out to me at: wooxx074+github@gmail.com
+
+</br>
+</br>
 
 ### Languages and Tools:
 <kbd>![Azure DevOps](https://user-images.githubusercontent.com/14337705/125177980-fe770b00-e1a5-11eb-86c5-d4b099b9000d.png)</kbd>
@@ -18,18 +24,10 @@
 <kbd>![Apache Spark](https://user-images.githubusercontent.com/14337705/125174089-80583b80-e188-11eb-9ff6-62fe1e4b4d70.png)</kbd>
 <kbd>![SQL](https://user-images.githubusercontent.com/14337705/125174019-fc05b880-e187-11eb-9f3b-4f9b927bb9c7.png)</kbd>
 
-<!--
-**wooxx074/wooxx074** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</br>
+</br>
 
-Here are some ideas to get you started:
+### Contact: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...!
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wooxx074+github@gmail.com) 
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/calvinwoomn/) 
